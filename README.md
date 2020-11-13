@@ -1,5 +1,3 @@
-# zhuoqunw.github.io
-
 ## Winter Olympics interactive design
 
 This project is from SI649 Info Visualization Fall 2020 at the University of Michigan. Using info visualization tools, I was trying to explore what matters to a country's success at the winter Olympics. I discussed several possible reasons, including GDP and population, Human Development Index, GDP per capita, Gini coefficient and multiple-medal-winning athletes. From my visualizations, I found that:
